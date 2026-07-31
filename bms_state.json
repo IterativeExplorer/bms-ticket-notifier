@@ -1,13 +1,5 @@
 {
   "shows": {
-    "FMJP|77513|20260804|PRIME ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "09:10 AM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
     "FMJP|77513|20260804|CLASSIC ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
       "time": "09:10 AM",
@@ -31,6 +23,174 @@
       "cat": "CLASSIC PLUS ROWS",
       "price": "140.00",
       "status": "3"
+    },
+    "FMJP|77513|20260804|PRIME ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "09:10 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
+    "RHMN|96479|20260804|RECLINER ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "RHMN|96479|20260804|PRIME PLUS ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "RHMN|96479|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RHMN|96479|20260804|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RHMN|96480|20260804|RECLINER ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "RHMN|96480|20260804|PRIME PLUS ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "RHMN|96480|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RHMN|96480|20260804|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RHMN|96481|20260804|RECLINER ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "470.00",
+      "status": "3"
+    },
+    "RHMN|96481|20260804|PRIME PLUS ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "RHMN|96481|20260804|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "RHMN|96481|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "RHMN|96483|20260804|RECLINER ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "620.00",
+      "status": "3"
+    },
+    "RHMN|96483|20260804|PRIME PLUS ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "RHMN|96483|20260804|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "RHMN|96483|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "RHMN|96484|20260804|RECLINER ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "620.00",
+      "status": "3"
+    },
+    "RHMN|96484|20260804|PRIME PLUS ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "RHMN|96484|20260804|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "RHMN|96484|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "300.00",
+      "status": "3"
     }
   },
   "dates": {
@@ -39,7 +199,7 @@
     "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "BOOKABLE",
-    "20260805": "NOT_OPEN",
+    "20260805": "AVAILABLE",
     "20260806": "NOT_OPEN"
   }
 }
