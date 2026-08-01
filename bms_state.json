@@ -528,6 +528,86 @@
       "price": "920.00",
       "status": "3"
     },
+    "ECPP|57653|20260804|RECLINER ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "670.00",
+      "status": "3"
+    },
+    "ECPP|57653|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "ECPP|57653|20260804|PRIME PLUS ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "410.00",
+      "status": "3"
+    },
+    "ECPP|57653|20260804|PRIME ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "ECPP|57653|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "ECPP|57654|20260804|RECLINER ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "670.00",
+      "status": "3"
+    },
+    "ECPP|57654|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "ECPP|57654|20260804|PRIME PLUS ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "410.00",
+      "status": "3"
+    },
+    "ECPP|57654|20260804|PRIME ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "ECPP|57654|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
     "PIPO|34187|20260804|RECLINER ROWS": {
       "venue": "PVR: Icon, The Pavillion Pune",
       "time": "08:05 AM",
@@ -688,6 +768,14 @@
       "price": "320.00",
       "status": "3"
     },
+    "FMJP|77513|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "09:10 AM",
+      "date": "20260804",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
     "FMJP|77513|20260804|CLASSIC PLUS ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
       "time": "09:10 AM",
@@ -712,12 +800,204 @@
       "price": "140.00",
       "status": "3"
     },
-    "FMJP|77513|20260804|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "09:10 AM",
+    "PGHM|45536|20260804|RECLINER ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "420.00",
+      "status": "3"
+    },
+    "PGHM|45536|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:05 AM",
       "date": "20260804",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "140.00",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PGHM|45536|20260804|PRIME PLUS ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PGHM|45536|20260804|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PGHM|45536|20260804|CLASSIC ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "230.00",
+      "status": "3"
+    },
+    "PGHM|45537|20260804|RECLINER ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "420.00",
+      "status": "3"
+    },
+    "PGHM|45537|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PGHM|45537|20260804|PRIME PLUS ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PGHM|45537|20260804|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PGHM|45537|20260804|CLASSIC ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:10 AM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "230.00",
+      "status": "3"
+    },
+    "PGHM|45538|20260804|RECLINER ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "480.00",
+      "status": "3"
+    },
+    "PGHM|45538|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PGHM|45538|20260804|PRIME PLUS ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "PGHM|45538|20260804|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PGHM|45538|20260804|CLASSIC ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "02:15 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PGHM|45540|20260804|RECLINER ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "690.00",
+      "status": "3"
+    },
+    "PGHM|45540|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "PGHM|45540|20260804|PRIME PLUS ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PGHM|45540|20260804|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "PGHM|45540|20260804|CLASSIC ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "08:25 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PGHM|45541|20260804|RECLINER ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "RECLINER ROWS",
+      "price": "690.00",
+      "status": "3"
+    },
+    "PGHM|45541|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "PGHM|45541|20260804|PRIME PLUS ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "PRIME PLUS ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PGHM|45541|20260804|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "PGHM|45541|20260804|CLASSIC ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:30 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
+      "price": "310.00",
       "status": "3"
     },
     "RHMN|96479|20260804|RECLINER ROWS": {
@@ -736,19 +1016,19 @@
       "price": "260.00",
       "status": "3"
     },
-    "RHMN|96479|20260804|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:05 AM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
-      "price": "240.00",
-      "status": "3"
-    },
     "RHMN|96479|20260804|CLASSIC ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "08:05 AM",
       "date": "20260804",
       "cat": "CLASSIC ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RHMN|96479|20260804|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
       "price": "240.00",
       "status": "3"
     },
