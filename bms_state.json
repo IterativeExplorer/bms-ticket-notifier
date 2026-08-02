@@ -757,7 +757,7 @@
       "time": "10:55 AM",
       "date": "20260804",
       "cat": "NORMAL",
-      "price": "170.00",
+      "price": "210.00",
       "status": "3"
     },
     "CNWE|13365|20260804|EXECUTIVE": {
@@ -765,7 +765,7 @@
       "time": "10:55 AM",
       "date": "20260804",
       "cat": "EXECUTIVE",
-      "price": "210.00",
+      "price": "250.00",
       "status": "3"
     },
     "CNWE|13365|20260804|PREMIUM": {
@@ -773,7 +773,7 @@
       "time": "10:55 AM",
       "date": "20260804",
       "cat": "PREMIUM",
-      "price": "230.00",
+      "price": "270.00",
       "status": "3"
     },
     "CNWE|13371|20260804|NORMAL": {
@@ -829,7 +829,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "NORMAL",
-      "price": "260.00",
+      "price": "320.00",
       "status": "3"
     },
     "CNWE|13368|20260804|EXECUTIVE": {
@@ -837,7 +837,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "EXECUTIVE",
-      "price": "300.00",
+      "price": "360.00",
       "status": "3"
     },
     "CNWE|13368|20260804|PREMIUM": {
@@ -845,7 +845,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "PREMIUM",
-      "price": "320.00",
+      "price": "380.00",
       "status": "3"
     },
     "CNWE|13374|20260804|NORMAL": {
@@ -1152,14 +1152,6 @@
       "price": "650.00",
       "status": "3"
     },
-    "FMJP|77513|20260804|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "09:10 AM",
-      "date": "20260804",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
     "FMJP|77513|20260804|CLASSIC PLUS ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
       "time": "09:10 AM",
@@ -1181,6 +1173,14 @@
       "time": "09:10 AM",
       "date": "20260804",
       "cat": "CLASSIC ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
+    "FMJP|77513|20260804|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "09:10 AM",
+      "date": "20260804",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "140.00",
       "status": "3"
     },
@@ -1262,22 +1262,6 @@
       "date": "20260804",
       "cat": "VIP PREMIUM",
       "price": "700.00",
-      "status": "3"
-    },
-    "PUVB|5315|20260804|VIP EXECUTIVE": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "10:30 PM",
-      "date": "20260804",
-      "cat": "VIP EXECUTIVE",
-      "price": "700.00",
-      "status": "3"
-    },
-    "PUVB|5315|20260804|VIP PREMIUM": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "10:30 PM",
-      "date": "20260804",
-      "cat": "VIP PREMIUM",
-      "price": "750.00",
       "status": "3"
     },
     "PUVB|5310|20260804|VIP EXECUTIVE": {
@@ -1680,19 +1664,19 @@
       "price": "260.00",
       "status": "3"
     },
-    "RHMN|96479|20260804|CLASSIC ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:05 AM",
-      "date": "20260804",
-      "cat": "CLASSIC ROWS",
-      "price": "240.00",
-      "status": "3"
-    },
     "RHMN|96479|20260804|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "08:05 AM",
       "date": "20260804",
       "cat": "PRIME ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RHMN|96479|20260804|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
       "price": "240.00",
       "status": "3"
     },
