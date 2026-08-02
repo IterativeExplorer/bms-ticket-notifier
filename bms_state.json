@@ -661,7 +661,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "430.00",
+      "price": "460.00",
       "status": "3"
     },
     "ECPP|57653|20260804|PRIME PLUS ROWS": {
@@ -957,7 +957,7 @@
       "time": "11:10 AM",
       "date": "20260804",
       "cat": "RECLINER ROWS",
-      "price": "520.00",
+      "price": "550.00",
       "status": "3"
     },
     "PIPO|34188|20260804|PRIME PLUS ROWS": {
@@ -965,7 +965,7 @@
       "time": "11:10 AM",
       "date": "20260804",
       "cat": "PRIME PLUS ROWS",
-      "price": "280.00",
+      "price": "310.00",
       "status": "2"
     },
     "PIPO|34188|20260804|PRIME ROWS": {
@@ -1152,22 +1152,6 @@
       "price": "650.00",
       "status": "3"
     },
-    "FMJP|77513|20260804|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "09:10 AM",
-      "date": "20260804",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
-    "FMJP|77513|20260804|PRIME ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "09:10 AM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
     "FMJP|77513|20260804|CLASSIC ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
       "time": "09:10 AM",
@@ -1181,6 +1165,22 @@
       "time": "09:10 AM",
       "date": "20260804",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
+    "FMJP|77513|20260804|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "09:10 AM",
+      "date": "20260804",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
+    "FMJP|77513|20260804|PRIME ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "09:10 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
       "price": "140.00",
       "status": "3"
     },
@@ -1664,19 +1664,19 @@
       "price": "260.00",
       "status": "3"
     },
-    "RHMN|96479|20260804|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:05 AM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
-      "price": "240.00",
-      "status": "3"
-    },
     "RHMN|96479|20260804|CLASSIC ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "08:05 AM",
       "date": "20260804",
       "cat": "CLASSIC ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RHMN|96479|20260804|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:05 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
       "price": "240.00",
       "status": "3"
     },
@@ -1854,14 +1854,6 @@
       "date": "20260804",
       "cat": "RECLINERS",
       "price": "890.00",
-      "status": "3"
-    },
-    "INPN|139669|20260804|ROYAL RECLINER ROWS": {
-      "venue": "INOX: Bund Garden Road",
-      "time": "10:10 AM",
-      "date": "20260804",
-      "cat": "ROYAL RECLINER ROWS",
-      "price": "400.00",
       "status": "3"
     },
     "INPN|139672|20260804|ROYAL RECLINER ROWS": {
