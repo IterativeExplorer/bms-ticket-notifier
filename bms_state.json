@@ -6,7 +6,7 @@
       "date": "20260804",
       "cat": "RECLINER ROWS",
       "price": "560.00",
-      "status": "2"
+      "status": "3"
     },
     "PMPW|68719|20260804|PRIME PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
@@ -430,7 +430,7 @@
       "date": "20260804",
       "cat": "RECLINER ROWS",
       "price": "740.00",
-      "status": "2"
+      "status": "3"
     },
     "PMPW|68724|20260804|PRIME PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
@@ -1152,6 +1152,14 @@
       "price": "650.00",
       "status": "3"
     },
+    "FMJP|77513|20260804|PRIME ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "09:10 AM",
+      "date": "20260804",
+      "cat": "PRIME ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
     "FMJP|77513|20260804|CLASSIC ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
       "time": "09:10 AM",
@@ -1173,14 +1181,6 @@
       "time": "09:10 AM",
       "date": "20260804",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
-    "FMJP|77513|20260804|PRIME ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "09:10 AM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
       "price": "140.00",
       "status": "3"
     },
@@ -1685,7 +1685,7 @@
       "time": "11:10 AM",
       "date": "20260804",
       "cat": "RECLINER ROWS",
-      "price": "370.00",
+      "price": "400.00",
       "status": "2"
     },
     "RHMN|96480|20260804|PRIME PLUS ROWS": {
@@ -1914,12 +1914,12 @@
     }
   },
   "dates": {
-    "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "BOOKABLE",
     "20260805": "AVAILABLE",
     "20260806": "AVAILABLE",
     "20260807": "NOT_OPEN",
-    "20260808": "NOT_OPEN"
+    "20260808": "NOT_OPEN",
+    "20260809": "NOT_OPEN"
   }
 }
