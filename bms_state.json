@@ -1,29 +1,5 @@
 {
   "shows": {
-    "PMPW|68783|20260804|PRIME ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "03:05 PM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
-      "price": "440.00",
-      "status": "3"
-    },
-    "PMPW|68783|20260804|CLASSIC PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "03:05 PM",
-      "date": "20260804",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "390.00",
-      "status": "3"
-    },
-    "PMPW|68783|20260804|CLASSIC ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "03:05 PM",
-      "date": "20260804",
-      "cat": "CLASSIC ROWS",
-      "price": "360.00",
-      "status": "3"
-    },
     "PMPW|68774|20260804|PRIME ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "07:10 PM",
@@ -93,7 +69,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "PRIME ROWS",
-      "price": "410.00",
+      "price": "440.00",
       "status": "3"
     },
     "PMPW|68836|20260804|CLASSIC PLUS ROWS": {
@@ -118,14 +94,14 @@
       "date": "20260804",
       "cat": "PRIME ROWS",
       "price": "440.00",
-      "status": "3"
+      "status": "2"
     },
     "PMPW|68785|20260804|CLASSIC PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "09:15 PM",
       "date": "20260804",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "390.00",
+      "price": "420.00",
       "status": "3"
     },
     "PMPW|68785|20260804|CLASSIC ROWS": {
@@ -141,7 +117,7 @@
       "time": "10:15 PM",
       "date": "20260804",
       "cat": "PRIME ROWS",
-      "price": "410.00",
+      "price": "440.00",
       "status": "3"
     },
     "PMPW|68775|20260804|CLASSIC PLUS ROWS": {
@@ -272,19 +248,19 @@
       "price": "360.00",
       "status": "2"
     },
-    "PCMZ|43233|20260804|CLASSIC ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "09:45 PM",
-      "date": "20260804",
-      "cat": "CLASSIC ROWS",
-      "price": "310.00",
-      "status": "3"
-    },
     "PCMZ|43233|20260804|CLASSIC PLUS ROWS": {
       "venue": "PVR: Phoenix Market City, Pune",
       "time": "09:45 PM",
       "date": "20260804",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PCMZ|43233|20260804|CLASSIC ROWS": {
+      "venue": "PVR: Phoenix Market City, Pune",
+      "time": "09:45 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
       "price": "310.00",
       "status": "3"
     },
@@ -309,7 +285,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "RECLINER ROWS",
-      "price": "670.00",
+      "price": "700.00",
       "status": "3"
     },
     "ECPP|57653|20260804|EXTRA LEGROOM ROWS": {
@@ -389,7 +365,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "NORMAL",
-      "price": "320.00",
+      "price": "340.00",
       "status": "3"
     },
     "CNWE|13368|20260804|EXECUTIVE": {
@@ -397,7 +373,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "EXECUTIVE",
-      "price": "360.00",
+      "price": "380.00",
       "status": "3"
     },
     "CNWE|13368|20260804|PREMIUM": {
@@ -405,7 +381,7 @@
       "time": "08:25 PM",
       "date": "20260804",
       "cat": "PREMIUM",
-      "price": "380.00",
+      "price": "400.00",
       "status": "2"
     },
     "CNWE|13374|20260804|NORMAL": {
@@ -525,7 +501,7 @@
       "time": "11:30 PM",
       "date": "20260804",
       "cat": "PRIME PLUS ROWS",
-      "price": "360.00",
+      "price": "390.00",
       "status": "3"
     },
     "PIPO|34192|20260804|PRIME ROWS": {
@@ -712,38 +688,6 @@
       "price": "700.00",
       "status": "3"
     },
-    "PKPU|20730|20260804|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "03:20 PM",
-      "date": "20260804",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "PKPU|20730|20260804|PRIME PLUS ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "03:20 PM",
-      "date": "20260804",
-      "cat": "PRIME PLUS ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "PKPU|20730|20260804|PRIME ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "03:20 PM",
-      "date": "20260804",
-      "cat": "PRIME ROWS",
-      "price": "320.00",
-      "status": "3"
-    },
-    "PKPU|20730|20260804|CLASSIC ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "03:20 PM",
-      "date": "20260804",
-      "cat": "CLASSIC ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "PKPU|20741|20260804|RECLINER ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
       "time": "07:15 PM",
@@ -816,30 +760,6 @@
       "price": "300.00",
       "status": "3"
     },
-    "CTRD|4367|20260804|ROYAL SOFA": {
-      "venue": "City Pride: R Deccan",
-      "time": "08:30 PM",
-      "date": "20260804",
-      "cat": "ROYAL SOFA",
-      "price": "280.00",
-      "status": "0"
-    },
-    "CTRD|4367|20260804|ROYAL GOLD": {
-      "venue": "City Pride: R Deccan",
-      "time": "08:30 PM",
-      "date": "20260804",
-      "cat": "ROYAL GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "CTRD|4367|20260804|ROYAL SILVER": {
-      "venue": "City Pride: R Deccan",
-      "time": "08:30 PM",
-      "date": "20260804",
-      "cat": "ROYAL SILVER",
-      "price": "230.00",
-      "status": "3"
-    },
     "RHMN|96483|20260804|RECLINER ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "08:25 PM",
@@ -904,20 +824,28 @@
       "price": "300.00",
       "status": "3"
     },
-    "PDCP|33431|20260804|RECLINERS PRIME": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "03:20 PM",
+    "CTRD|4367|20260804|ROYAL SOFA": {
+      "venue": "City Pride: R Deccan",
+      "time": "08:30 PM",
       "date": "20260804",
-      "cat": "RECLINERS PRIME",
-      "price": "940.00",
+      "cat": "ROYAL SOFA",
+      "price": "280.00",
+      "status": "0"
+    },
+    "CTRD|4367|20260804|ROYAL GOLD": {
+      "venue": "City Pride: R Deccan",
+      "time": "08:30 PM",
+      "date": "20260804",
+      "cat": "ROYAL GOLD",
+      "price": "250.00",
       "status": "3"
     },
-    "PDCP|33431|20260804|RECLINERS": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "03:20 PM",
+    "CTRD|4367|20260804|ROYAL SILVER": {
+      "venue": "City Pride: R Deccan",
+      "time": "08:30 PM",
       "date": "20260804",
-      "cat": "RECLINERS",
-      "price": "890.00",
+      "cat": "ROYAL SILVER",
+      "price": "230.00",
       "status": "3"
     },
     "PDCP|33433|20260804|RECLINERS PRIME": {
