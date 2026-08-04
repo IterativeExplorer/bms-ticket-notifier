@@ -558,14 +558,6 @@
       "date": "20260804",
       "cat": "PRIME ROWS",
       "price": "310.00",
-      "status": "2"
-    },
-    "PCMZ|43230|20260804|CLASSIC ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "12:30 PM",
-      "date": "20260804",
-      "cat": "CLASSIC ROWS",
-      "price": "260.00",
       "status": "3"
     },
     "PCMZ|43230|20260804|CLASSIC PLUS ROWS": {
@@ -573,6 +565,14 @@
       "time": "12:30 PM",
       "date": "20260804",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "PCMZ|43230|20260804|CLASSIC ROWS": {
+      "venue": "PVR: Phoenix Market City, Pune",
+      "time": "12:30 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
       "price": "260.00",
       "status": "3"
     },
@@ -616,19 +616,19 @@
       "price": "360.00",
       "status": "3"
     },
-    "PCMZ|43233|20260804|CLASSIC ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "09:45 PM",
-      "date": "20260804",
-      "cat": "CLASSIC ROWS",
-      "price": "310.00",
-      "status": "3"
-    },
     "PCMZ|43233|20260804|CLASSIC PLUS ROWS": {
       "venue": "PVR: Phoenix Market City, Pune",
       "time": "09:45 PM",
       "date": "20260804",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PCMZ|43233|20260804|CLASSIC ROWS": {
+      "venue": "PVR: Phoenix Market City, Pune",
+      "time": "09:45 PM",
+      "date": "20260804",
+      "cat": "CLASSIC ROWS",
       "price": "310.00",
       "status": "3"
     },
@@ -1160,6 +1160,14 @@
       "price": "150.00",
       "status": "2"
     },
+    "FMJP|77513|20260804|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "09:10 AM",
+      "date": "20260804",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "140.00",
+      "status": "3"
+    },
     "FMJP|77513|20260804|PRIME ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
       "time": "09:10 AM",
@@ -1173,14 +1181,6 @@
       "time": "09:10 AM",
       "date": "20260804",
       "cat": "CLASSIC ROWS",
-      "price": "140.00",
-      "status": "3"
-    },
-    "FMJP|77513|20260804|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "09:10 AM",
-      "date": "20260804",
-      "cat": "CLASSIC PLUS ROWS",
       "price": "140.00",
       "status": "3"
     },
@@ -1814,7 +1814,7 @@
       "date": "20260804",
       "cat": "RECLINER ROWS",
       "price": "400.00",
-      "status": "2"
+      "status": "1"
     },
     "RHMN|96480|20260804|PRIME PLUS ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
