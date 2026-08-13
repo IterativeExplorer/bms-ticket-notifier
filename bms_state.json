@@ -1000,19 +1000,19 @@
       "price": "210.00",
       "status": "3"
     },
-    "RHMN|96891|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "09:00 AM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
     "RHMN|96891|20260815|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "09:00 AM",
       "date": "20260815",
       "cat": "PRIME ROWS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RHMN|96891|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "09:00 AM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
       "price": "190.00",
       "status": "3"
     },
