@@ -182,7 +182,7 @@
       "date": "20260815",
       "cat": "PRIME PLUS ROWS",
       "price": "340.00",
-      "status": "3"
+      "status": "2"
     },
     "PCMZ|43726|20260815|PRIME ROWS": {
       "venue": "PVR: Phoenix Market City, Pune",
@@ -397,8 +397,8 @@
       "time": "01:25 PM",
       "date": "20260815",
       "cat": "RECLINER ROWS",
-      "price": "580.00",
-      "status": "3"
+      "price": "700.00",
+      "status": "2"
     },
     "PIPO|34623|20260815|PRIME PLUS ROWS": {
       "venue": "PVR: Icon, The Pavillion Pune",
@@ -504,6 +504,54 @@
       "price": "230.00",
       "status": "3"
     },
+    "CYKR|15556|20260815|ROYAL RECLINER": {
+      "venue": "City Pride, Nyati Plaza: Kharadi",
+      "time": "11:00 AM",
+      "date": "20260815",
+      "cat": "ROYAL RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CYKR|15556|20260815|ROYAL GOLD": {
+      "venue": "City Pride, Nyati Plaza: Kharadi",
+      "time": "11:00 AM",
+      "date": "20260815",
+      "cat": "ROYAL GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "CYKR|15556|20260815|ROYAL SILVER": {
+      "venue": "City Pride, Nyati Plaza: Kharadi",
+      "time": "11:00 AM",
+      "date": "20260815",
+      "cat": "ROYAL SILVER",
+      "price": "180.00",
+      "status": "3"
+    },
+    "CYKR|15561|20260815|ROYAL RECLINER": {
+      "venue": "City Pride, Nyati Plaza: Kharadi",
+      "time": "02:00 PM",
+      "date": "20260815",
+      "cat": "ROYAL RECLINER",
+      "price": "600.00",
+      "status": "3"
+    },
+    "CYKR|15561|20260815|ROYAL GOLD": {
+      "venue": "City Pride, Nyati Plaza: Kharadi",
+      "time": "02:00 PM",
+      "date": "20260815",
+      "cat": "ROYAL GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "CYKR|15561|20260815|ROYAL SILVER": {
+      "venue": "City Pride, Nyati Plaza: Kharadi",
+      "time": "02:00 PM",
+      "date": "20260815",
+      "cat": "ROYAL SILVER",
+      "price": "230.00",
+      "status": "3"
+    },
     "MATK|40680|20260815|EXECUTIVE": {
       "venue": "MovieMax: Amanora Town Centre, Pune(Now Renovated)",
       "time": "01:30 PM",
@@ -566,6 +614,22 @@
       "date": "20260815",
       "cat": "VIP PREMIUM",
       "price": "550.00",
+      "status": "3"
+    },
+    "PUVB|5674|20260815|VIP EXECUTIVE": {
+      "venue": "Cinepolis: VIP Seasons Mall, Pune",
+      "time": "09:00 PM",
+      "date": "20260815",
+      "cat": "VIP EXECUTIVE",
+      "price": "600.00",
+      "status": "3"
+    },
+    "PUVB|5674|20260815|VIP PREMIUM": {
+      "venue": "Cinepolis: VIP Seasons Mall, Pune",
+      "time": "09:00 PM",
+      "date": "20260815",
+      "cat": "VIP PREMIUM",
+      "price": "650.00",
       "status": "3"
     },
     "VJHS|5861|20260815|RECLINER": {
@@ -968,19 +1032,19 @@
       "price": "210.00",
       "status": "3"
     },
-    "RHMN|96869|20260815|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "11:55 AM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
     "RHMN|96869|20260815|CLASSIC ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "11:55 AM",
       "date": "20260815",
       "cat": "CLASSIC ROWS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RHMN|96869|20260815|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:55 AM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
       "price": "190.00",
       "status": "3"
     },
@@ -1110,6 +1174,30 @@
       "date": "20260815",
       "cat": "ROYAL RECLINER ROWS",
       "price": "330.00",
+      "status": "3"
+    },
+    "INPN|140094|20260815|PRIME PLUS ROWS": {
+      "venue": "INOX: Bund Garden Road",
+      "time": "12:20 PM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "INPN|140094|20260815|PRIME ROWS": {
+      "venue": "INOX: Bund Garden Road",
+      "time": "12:20 PM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
+      "price": "230.00",
+      "status": "3"
+    },
+    "INPN|140094|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Bund Garden Road",
+      "time": "12:20 PM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
+      "price": "210.00",
       "status": "3"
     },
     "INPN|140074|20260815|ROYAL RECLINER ROWS": {
