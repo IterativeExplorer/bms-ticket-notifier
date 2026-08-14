@@ -328,36 +328,36 @@
       "price": "180.00",
       "status": "3"
     },
-    "PIPO|34600|20260815|RECLINER ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "09:05 AM",
+    "ECPP|57997|20260815|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "09:25 PM",
       "date": "20260815",
-      "cat": "RECLINER ROWS",
-      "price": "480.00",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "380.00",
       "status": "3"
     },
-    "PIPO|34600|20260815|PRIME PLUS ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "09:05 AM",
+    "ECPP|57997|20260815|PRIME PLUS ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "09:25 PM",
       "date": "20260815",
       "cat": "PRIME PLUS ROWS",
-      "price": "230.00",
+      "price": "360.00",
       "status": "3"
     },
-    "PIPO|34600|20260815|PRIME ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "09:05 AM",
+    "ECPP|57997|20260815|PRIME ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "09:25 PM",
       "date": "20260815",
       "cat": "PRIME ROWS",
-      "price": "210.00",
+      "price": "320.00",
       "status": "3"
     },
-    "PIPO|34600|20260815|CLASSIC ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "09:05 AM",
+    "ECPP|57997|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "09:25 PM",
       "date": "20260815",
       "cat": "CLASSIC ROWS",
-      "price": "170.00",
+      "price": "280.00",
       "status": "3"
     },
     "PIPO|34623|20260815|RECLINER ROWS": {
@@ -390,38 +390,6 @@
       "date": "20260815",
       "cat": "CLASSIC ROWS",
       "price": "210.00",
-      "status": "3"
-    },
-    "PIPO|34626|20260815|RECLINER ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "RECLINER ROWS",
-      "price": "750.00",
-      "status": "3"
-    },
-    "PIPO|34626|20260815|PRIME PLUS ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "PIPO|34626|20260815|PRIME ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "310.00",
-      "status": "3"
-    },
-    "PIPO|34626|20260815|CLASSIC ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "270.00",
       "status": "3"
     },
     "CPRP|2118|20260815|ROYAL SOFA": {
@@ -474,7 +442,7 @@
     },
     "CYKR|15556|20260815|ROYAL RECLINER": {
       "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "11:00 AM",
+      "time": "10:45 AM",
       "date": "20260815",
       "cat": "ROYAL RECLINER",
       "price": "500.00",
@@ -482,7 +450,7 @@
     },
     "CYKR|15556|20260815|ROYAL GOLD": {
       "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "11:00 AM",
+      "time": "10:45 AM",
       "date": "20260815",
       "cat": "ROYAL GOLD",
       "price": "200.00",
@@ -490,7 +458,7 @@
     },
     "CYKR|15556|20260815|ROYAL SILVER": {
       "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "11:00 AM",
+      "time": "10:45 AM",
       "date": "20260815",
       "cat": "ROYAL SILVER",
       "price": "180.00",
@@ -968,19 +936,19 @@
       "price": "210.00",
       "status": "3"
     },
-    "RHMN|96891|20260815|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "09:00 AM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
     "RHMN|96891|20260815|CLASSIC ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "09:00 AM",
       "date": "20260815",
       "cat": "CLASSIC ROWS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RHMN|96891|20260815|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "09:00 AM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
       "price": "190.00",
       "status": "3"
     },
@@ -1110,7 +1078,7 @@
       "date": "20260815",
       "cat": "RECLINERS PRIME",
       "price": "900.00",
-      "status": "3"
+      "status": "2"
     },
     "PDCP|33926|20260815|RECLINERS": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
