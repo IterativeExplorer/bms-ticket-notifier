@@ -328,38 +328,6 @@
       "price": "180.00",
       "status": "3"
     },
-    "ECPP|57997|20260815|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:25 PM",
-      "date": "20260815",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "ECPP|57997|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:25 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "360.00",
-      "status": "3"
-    },
-    "ECPP|57997|20260815|PRIME ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:25 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "320.00",
-      "status": "3"
-    },
-    "ECPP|57997|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:25 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
     "PIPO|34600|20260815|RECLINER ROWS": {
       "venue": "PVR: Icon, The Pavillion Pune",
       "time": "09:05 AM",
@@ -1141,7 +1109,7 @@
       "time": "03:10 PM",
       "date": "20260815",
       "cat": "RECLINERS PRIME",
-      "price": "850.00",
+      "price": "900.00",
       "status": "3"
     },
     "PDCP|33926|20260815|RECLINERS": {
@@ -1174,30 +1142,6 @@
       "date": "20260815",
       "cat": "ROYAL RECLINER ROWS",
       "price": "330.00",
-      "status": "3"
-    },
-    "INPN|140094|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Bund Garden Road",
-      "time": "12:20 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
-    "INPN|140094|20260815|PRIME ROWS": {
-      "venue": "INOX: Bund Garden Road",
-      "time": "12:20 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "230.00",
-      "status": "3"
-    },
-    "INPN|140094|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Bund Garden Road",
-      "time": "12:20 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "210.00",
       "status": "3"
     },
     "INPN|140074|20260815|ROYAL RECLINER ROWS": {
