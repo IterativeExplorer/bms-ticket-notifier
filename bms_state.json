@@ -176,38 +176,6 @@
       "price": "220.00",
       "status": "3"
     },
-    "PCMZ|43726|20260815|PRIME PLUS ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "08:20 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "PCMZ|43726|20260815|PRIME ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "08:20 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "290.00",
-      "status": "3"
-    },
-    "PCMZ|43726|20260815|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "08:20 PM",
-      "date": "20260815",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "270.00",
-      "status": "3"
-    },
-    "PCMZ|43726|20260815|CLASSIC ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "08:20 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
     "ESEM|64221|20260815|RECLINER": {
       "venue": "E-SQUARE: Xion Mall, Hinjawadi",
       "time": "08:00 AM",
@@ -554,7 +522,7 @@
     },
     "PUVB|5674|20260815|VIP EXECUTIVE": {
       "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "09:00 PM",
+      "time": "11:55 PM",
       "date": "20260815",
       "cat": "VIP EXECUTIVE",
       "price": "600.00",
@@ -562,7 +530,7 @@
     },
     "PUVB|5674|20260815|VIP PREMIUM": {
       "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "09:00 PM",
+      "time": "11:55 PM",
       "date": "20260815",
       "cat": "VIP PREMIUM",
       "price": "650.00",
@@ -784,38 +752,6 @@
       "price": "260.00",
       "status": "3"
     },
-    "NPSE|13989|20260815|RECLINER": {
-      "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "3"
-    },
-    "NPSE|13989|20260815|SOFA PLATINUM": {
-      "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "SOFA PLATINUM",
-      "price": "180.00",
-      "status": "3"
-    },
-    "NPSE|13989|20260815|SOFA GOLD": {
-      "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "SOFA GOLD",
-      "price": "150.00",
-      "status": "3"
-    },
-    "NPSE|13989|20260815|SOFA SILVER": {
-      "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "SOFA SILVER",
-      "price": "140.00",
-      "status": "3"
-    },
     "NPSE|13991|20260815|RECLINER": {
       "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
       "time": "12:45 PM",
@@ -936,19 +872,19 @@
       "price": "210.00",
       "status": "3"
     },
-    "RHMN|96891|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "09:00 AM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
     "RHMN|96891|20260815|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "09:00 AM",
       "date": "20260815",
       "cat": "PRIME ROWS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RHMN|96891|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "09:00 AM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
       "price": "190.00",
       "status": "3"
     },
@@ -1093,7 +1029,7 @@
       "time": "08:30 PM",
       "date": "20260815",
       "cat": "RECLINERS PRIME",
-      "price": "850.00",
+      "price": "900.00",
       "status": "3"
     },
     "PDCP|33928|20260815|RECLINERS": {
@@ -1143,39 +1079,15 @@
       "cat": "RECLINER",
       "price": "410.00",
       "status": "3"
-    },
-    "MKML|14004|20260815|MAX PRIME": {
-      "venue": "MovieMax Gold: Mariplex Mall, Kalyani Nagar",
-      "time": "07:30 PM",
-      "date": "20260815",
-      "cat": "MAX PRIME",
-      "price": "250.00",
-      "status": "3"
-    },
-    "MKML|14004|20260815|MAX PREMIER": {
-      "venue": "MovieMax Gold: Mariplex Mall, Kalyani Nagar",
-      "time": "07:30 PM",
-      "date": "20260815",
-      "cat": "MAX PREMIER",
-      "price": "270.00",
-      "status": "3"
-    },
-    "MKML|14004|20260815|RECLINER": {
-      "venue": "MovieMax Gold: Mariplex Mall, Kalyani Nagar",
-      "time": "07:30 PM",
-      "date": "20260815",
-      "cat": "RECLINER",
-      "price": "480.00",
-      "status": "3"
     }
   },
   "dates": {
-    "20260814": "AVAILABLE",
     "20260815": "BOOKABLE",
     "20260816": "AVAILABLE",
     "20260817": "NOT_OPEN",
     "20260818": "NOT_OPEN",
     "20260819": "NOT_OPEN",
-    "20260820": "NOT_OPEN"
+    "20260820": "NOT_OPEN",
+    "20260821": "NOT_OPEN"
   }
 }
