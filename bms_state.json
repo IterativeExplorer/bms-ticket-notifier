@@ -1,45 +1,12 @@
 {
-  "shows": {
-    "NPSE|14002|20260815|RECLINER": {
-      "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "11:50 PM",
-      "date": "20260815",
-      "cat": "RECLINER",
-      "price": "550.00",
-      "status": "3"
-    },
-    "NPSE|14002|20260815|SOFA PLATINUM": {
-      "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "11:50 PM",
-      "date": "20260815",
-      "cat": "SOFA PLATINUM",
-      "price": "300.00",
-      "status": "3"
-    },
-    "NPSE|14002|20260815|SOFA GOLD": {
-      "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "11:50 PM",
-      "date": "20260815",
-      "cat": "SOFA GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "NPSE|14002|20260815|SOFA SILVER": {
-      "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "11:50 PM",
-      "date": "20260815",
-      "cat": "SOFA SILVER",
-      "price": "200.00",
-      "status": "3"
-    }
-  },
+  "shows": {},
   "dates": {
-    "20260815": "BOOKABLE",
-    "20260816": "AVAILABLE",
+    "20260816": "BOOKABLE",
     "20260817": "AVAILABLE",
     "20260818": "AVAILABLE",
     "20260819": "AVAILABLE",
     "20260820": "NOT_OPEN",
-    "20260821": "NOT_OPEN"
+    "20260821": "NOT_OPEN",
+    "20260822": "NOT_OPEN"
   }
 }
