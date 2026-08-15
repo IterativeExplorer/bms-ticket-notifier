@@ -48,21 +48,13 @@
       "price": "290.00",
       "status": "3"
     },
-    "CPKT|7109|20260815|ROYAL RECLINER": {
-      "venue": "City Pride: Kothrud",
-      "time": "02:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL RECLINER",
-      "price": "550.00",
-      "status": "3"
-    },
     "CPKT|7051|20260815|ROYAL SOFA": {
       "venue": "City Pride: Kothrud",
       "time": "09:00 PM",
       "date": "20260815",
       "cat": "ROYAL SOFA",
       "price": "380.00",
-      "status": "3"
+      "status": "2"
     },
     "CPKT|7051|20260815|ROYAL GOLD": {
       "venue": "City Pride: Kothrud",
@@ -78,38 +70,6 @@
       "date": "20260815",
       "cat": "ROYAL SILVER",
       "price": "300.00",
-      "status": "3"
-    },
-    "PCMZ|43724|20260815|PRIME PLUS ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "03:25 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "360.00",
-      "status": "0"
-    },
-    "PCMZ|43724|20260815|PRIME ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "03:25 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "290.00",
-      "status": "3"
-    },
-    "PCMZ|43724|20260815|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "03:25 PM",
-      "date": "20260815",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "240.00",
-      "status": "3"
-    },
-    "PCMZ|43724|20260815|CLASSIC ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "03:25 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "220.00",
       "status": "3"
     },
     "ESEM|64227|20260815|RECLINER": {
@@ -168,38 +128,6 @@
       "price": "280.00",
       "status": "3"
     },
-    "PIPO|34623|20260815|RECLINER ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "01:25 PM",
-      "date": "20260815",
-      "cat": "RECLINER ROWS",
-      "price": "700.00",
-      "status": "0"
-    },
-    "PIPO|34623|20260815|PRIME PLUS ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "01:25 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "310.00",
-      "status": "2"
-    },
-    "PIPO|34623|20260815|PRIME ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "01:25 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "270.00",
-      "status": "3"
-    },
-    "PIPO|34623|20260815|CLASSIC ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "01:25 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "210.00",
-      "status": "3"
-    },
     "CPRP|2115|20260815|ROYAL SOFA": {
       "venue": "City Pride Royal Cinemas: Rahatani",
       "time": "09:00 PM",
@@ -219,30 +147,6 @@
     "CPRP|2115|20260815|ROYAL SILVER": {
       "venue": "City Pride Royal Cinemas: Rahatani",
       "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL SILVER",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CYKR|15561|20260815|ROYAL RECLINER": {
-      "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "02:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL RECLINER",
-      "price": "600.00",
-      "status": "3"
-    },
-    "CYKR|15561|20260815|ROYAL GOLD": {
-      "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "02:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "CYKR|15561|20260815|ROYAL SILVER": {
-      "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "02:00 PM",
       "date": "20260815",
       "cat": "ROYAL SILVER",
       "price": "230.00",
@@ -280,41 +184,9 @@
       "price": "200.00",
       "status": "3"
     },
-    "PUVB|5672|20260815|VIP EXECUTIVE": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "03:20 PM",
-      "date": "20260815",
-      "cat": "VIP EXECUTIVE",
-      "price": "550.00",
-      "status": "3"
-    },
-    "PUVB|5672|20260815|VIP PREMIUM": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "03:20 PM",
-      "date": "20260815",
-      "cat": "VIP PREMIUM",
-      "price": "600.00",
-      "status": "2"
-    },
-    "PUVB|5674|20260815|VIP EXECUTIVE": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "11:55 PM",
-      "date": "20260815",
-      "cat": "VIP EXECUTIVE",
-      "price": "600.00",
-      "status": "3"
-    },
-    "PUVB|5674|20260815|VIP PREMIUM": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "11:55 PM",
-      "date": "20260815",
-      "cat": "VIP PREMIUM",
-      "price": "650.00",
-      "status": "3"
-    },
     "NPSE|14002|20260815|RECLINER": {
       "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "11:40 PM",
+      "time": "11:50 PM",
       "date": "20260815",
       "cat": "RECLINER",
       "price": "550.00",
@@ -322,7 +194,7 @@
     },
     "NPSE|14002|20260815|SOFA PLATINUM": {
       "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "11:40 PM",
+      "time": "11:50 PM",
       "date": "20260815",
       "cat": "SOFA PLATINUM",
       "price": "300.00",
@@ -330,7 +202,7 @@
     },
     "NPSE|14002|20260815|SOFA GOLD": {
       "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "11:40 PM",
+      "time": "11:50 PM",
       "date": "20260815",
       "cat": "SOFA GOLD",
       "price": "250.00",
@@ -338,42 +210,10 @@
     },
     "NPSE|14002|20260815|SOFA SILVER": {
       "venue": "E-SQUARE: University Road, Pune (Newly Renovated)",
-      "time": "11:40 PM",
+      "time": "11:50 PM",
       "date": "20260815",
       "cat": "SOFA SILVER",
       "price": "200.00",
-      "status": "3"
-    },
-    "RHMN|96887|20260815|RECLINER ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "03:05 PM",
-      "date": "20260815",
-      "cat": "RECLINER ROWS",
-      "price": "540.00",
-      "status": "3"
-    },
-    "RHMN|96887|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "03:05 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "290.00",
-      "status": "3"
-    },
-    "RHMN|96887|20260815|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "03:05 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "270.00",
-      "status": "3"
-    },
-    "RHMN|96887|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "03:05 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
       "status": "3"
     },
     "RHMN|96889|20260815|RECLINER ROWS": {
@@ -408,37 +248,21 @@
       "price": "250.00",
       "status": "3"
     },
-    "PDCP|33926|20260815|RECLINERS PRIME": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "03:10 PM",
-      "date": "20260815",
-      "cat": "RECLINERS PRIME",
-      "price": "950.00",
-      "status": "2"
-    },
-    "PDCP|33926|20260815|RECLINERS": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "03:10 PM",
-      "date": "20260815",
-      "cat": "RECLINERS",
-      "price": "800.00",
-      "status": "3"
-    },
     "PDCP|33928|20260815|RECLINERS PRIME": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "08:30 PM",
       "date": "20260815",
       "cat": "RECLINERS PRIME",
-      "price": "900.00",
-      "status": "2"
+      "price": "950.00",
+      "status": "1"
     },
     "PDCP|33928|20260815|RECLINERS": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "08:30 PM",
       "date": "20260815",
       "cat": "RECLINERS",
-      "price": "800.00",
-      "status": "3"
+      "price": "900.00",
+      "status": "2"
     },
     "INPN|140074|20260815|ROYAL RECLINER ROWS": {
       "venue": "INOX: Bund Garden Road",
@@ -452,9 +276,9 @@
   "dates": {
     "20260815": "BOOKABLE",
     "20260816": "AVAILABLE",
-    "20260817": "NOT_OPEN",
-    "20260818": "NOT_OPEN",
-    "20260819": "NOT_OPEN",
+    "20260817": "AVAILABLE",
+    "20260818": "AVAILABLE",
+    "20260819": "AVAILABLE",
     "20260820": "NOT_OPEN",
     "20260821": "NOT_OPEN"
   }
