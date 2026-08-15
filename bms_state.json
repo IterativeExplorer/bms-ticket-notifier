@@ -48,30 +48,6 @@
       "price": "290.00",
       "status": "3"
     },
-    "CPKT|7047|20260815|ROYAL SOFA": {
-      "venue": "City Pride: Kothrud",
-      "time": "11:00 AM",
-      "date": "20260815",
-      "cat": "ROYAL SOFA",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CPKT|7047|20260815|ROYAL GOLD": {
-      "venue": "City Pride: Kothrud",
-      "time": "11:00 AM",
-      "date": "20260815",
-      "cat": "ROYAL GOLD",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CPKT|7047|20260815|ROYAL SILVER": {
-      "venue": "City Pride: Kothrud",
-      "time": "11:00 AM",
-      "date": "20260815",
-      "cat": "ROYAL SILVER",
-      "price": "200.00",
-      "status": "3"
-    },
     "CPKT|7109|20260815|ROYAL RECLINER": {
       "venue": "City Pride: Kothrud",
       "time": "02:00 PM",
@@ -110,7 +86,7 @@
       "date": "20260815",
       "cat": "PRIME PLUS ROWS",
       "price": "310.00",
-      "status": "2"
+      "status": "1"
     },
     "PCMZ|43724|20260815|PRIME ROWS": {
       "venue": "PVR: Phoenix Market City, Pune",
@@ -222,14 +198,14 @@
       "date": "20260815",
       "cat": "RECLINER ROWS",
       "price": "700.00",
-      "status": "2"
+      "status": "0"
     },
     "PIPO|34623|20260815|PRIME PLUS ROWS": {
       "venue": "PVR: Icon, The Pavillion Pune",
       "time": "01:25 PM",
       "date": "20260815",
       "cat": "PRIME PLUS ROWS",
-      "price": "270.00",
+      "price": "290.00",
       "status": "3"
     },
     "PIPO|34623|20260815|PRIME ROWS": {
@@ -296,30 +272,6 @@
       "price": "230.00",
       "status": "3"
     },
-    "CYKR|15556|20260815|ROYAL RECLINER": {
-      "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "10:45 AM",
-      "date": "20260815",
-      "cat": "ROYAL RECLINER",
-      "price": "500.00",
-      "status": "3"
-    },
-    "CYKR|15556|20260815|ROYAL GOLD": {
-      "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "10:45 AM",
-      "date": "20260815",
-      "cat": "ROYAL GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "CYKR|15556|20260815|ROYAL SILVER": {
-      "venue": "City Pride, Nyati Plaza: Kharadi",
-      "time": "10:45 AM",
-      "date": "20260815",
-      "cat": "ROYAL SILVER",
-      "price": "180.00",
-      "status": "3"
-    },
     "CYKR|15561|20260815|ROYAL RECLINER": {
       "venue": "City Pride, Nyati Plaza: Kharadi",
       "time": "02:00 PM",
@@ -373,7 +325,7 @@
       "time": "03:20 PM",
       "date": "20260815",
       "cat": "VIP EXECUTIVE",
-      "price": "500.00",
+      "price": "550.00",
       "status": "3"
     },
     "PUVB|5672|20260815|VIP PREMIUM": {
@@ -381,7 +333,7 @@
       "time": "03:20 PM",
       "date": "20260815",
       "cat": "VIP PREMIUM",
-      "price": "550.00",
+      "price": "600.00",
       "status": "3"
     },
     "PUVB|5674|20260815|VIP EXECUTIVE": {
@@ -664,19 +616,19 @@
       "price": "210.00",
       "status": "3"
     },
-    "RHMN|96869|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "11:55 AM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
     "RHMN|96869|20260815|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "11:55 AM",
       "date": "20260815",
       "cat": "PRIME ROWS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RHMN|96869|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:55 AM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
       "price": "190.00",
       "status": "3"
     },
@@ -717,7 +669,7 @@
       "time": "03:10 PM",
       "date": "20260815",
       "cat": "RECLINERS PRIME",
-      "price": "900.00",
+      "price": "950.00",
       "status": "2"
     },
     "PDCP|33926|20260815|RECLINERS": {
