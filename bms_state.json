@@ -24,6 +24,30 @@
       "price": "310.00",
       "status": "3"
     },
+    "PUNB|22243|20260815|NORMAL": {
+      "venue": "Cinepolis: Seasons Mall, Pune",
+      "time": "10:05 PM",
+      "date": "20260815",
+      "cat": "NORMAL",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PUNB|22243|20260815|EXECUTIVE": {
+      "venue": "Cinepolis: Seasons Mall, Pune",
+      "time": "10:05 PM",
+      "date": "20260815",
+      "cat": "EXECUTIVE",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PUNB|22243|20260815|PREMIUM": {
+      "venue": "Cinepolis: Seasons Mall, Pune",
+      "time": "10:05 PM",
+      "date": "20260815",
+      "cat": "PREMIUM",
+      "price": "290.00",
+      "status": "3"
+    },
     "CPKT|7047|20260815|ROYAL SOFA": {
       "venue": "City Pride: Kothrud",
       "time": "11:00 AM",
@@ -152,30 +176,6 @@
       "price": "220.00",
       "status": "3"
     },
-    "ESEM|64221|20260815|RECLINER": {
-      "venue": "E-SQUARE: Xion Mall, Hinjawadi",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "RECLINER",
-      "price": "300.00",
-      "status": "3"
-    },
-    "ESEM|64221|20260815|SOFA PLATINUM": {
-      "venue": "E-SQUARE: Xion Mall, Hinjawadi",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "SOFA PLATINUM",
-      "price": "180.00",
-      "status": "3"
-    },
-    "ESEM|64221|20260815|SOFA GOLD": {
-      "venue": "E-SQUARE: Xion Mall, Hinjawadi",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "SOFA GOLD",
-      "price": "150.00",
-      "status": "3"
-    },
     "ESEM|64222|20260815|RECLINER": {
       "venue": "E-SQUARE: Xion Mall, Hinjawadi",
       "time": "10:00 AM",
@@ -246,30 +246,6 @@
       "date": "20260815",
       "cat": "SOFA GOLD",
       "price": "250.00",
-      "status": "3"
-    },
-    "ECPP|58035|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
-    "ECPP|58035|20260815|PRIME ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "210.00",
-      "status": "3"
-    },
-    "ECPP|58035|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "08:00 AM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "180.00",
       "status": "3"
     },
     "ECPP|57997|20260815|EXTRA LEGROOM ROWS": {
@@ -480,36 +456,36 @@
       "price": "470.00",
       "status": "3"
     },
-    "VJHS|5861|20260815|RECLINER": {
-      "venue": "E-SQUARE: VJ Happiness Street, Hinjawadi",
-      "time": "08:45 AM",
+    "PUVB|5672|20260815|VIP EXECUTIVE": {
+      "venue": "Cinepolis: VIP Seasons Mall, Pune",
+      "time": "03:20 PM",
       "date": "20260815",
-      "cat": "RECLINER",
-      "price": "300.00",
+      "cat": "VIP EXECUTIVE",
+      "price": "500.00",
       "status": "3"
     },
-    "VJHS|5861|20260815|PLATINUM": {
-      "venue": "E-SQUARE: VJ Happiness Street, Hinjawadi",
-      "time": "08:45 AM",
+    "PUVB|5672|20260815|VIP PREMIUM": {
+      "venue": "Cinepolis: VIP Seasons Mall, Pune",
+      "time": "03:20 PM",
       "date": "20260815",
-      "cat": "PLATINUM",
-      "price": "180.00",
+      "cat": "VIP PREMIUM",
+      "price": "550.00",
       "status": "3"
     },
-    "VJHS|5861|20260815|GOLD": {
-      "venue": "E-SQUARE: VJ Happiness Street, Hinjawadi",
-      "time": "08:45 AM",
+    "PUVB|5674|20260815|VIP EXECUTIVE": {
+      "venue": "Cinepolis: VIP Seasons Mall, Pune",
+      "time": "11:55 PM",
       "date": "20260815",
-      "cat": "GOLD",
-      "price": "150.00",
+      "cat": "VIP EXECUTIVE",
+      "price": "600.00",
       "status": "3"
     },
-    "VJHS|5861|20260815|SILVER": {
-      "venue": "E-SQUARE: VJ Happiness Street, Hinjawadi",
-      "time": "08:45 AM",
+    "PUVB|5674|20260815|VIP PREMIUM": {
+      "venue": "Cinepolis: VIP Seasons Mall, Pune",
+      "time": "11:55 PM",
       "date": "20260815",
-      "cat": "SILVER",
-      "price": "120.00",
+      "cat": "VIP PREMIUM",
+      "price": "650.00",
       "status": "3"
     },
     "VJHS|5863|20260815|RECLINER": {
@@ -816,19 +792,19 @@
       "price": "210.00",
       "status": "3"
     },
-    "RHMN|96891|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "09:00 AM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
     "RHMN|96891|20260815|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "09:00 AM",
       "date": "20260815",
       "cat": "PRIME ROWS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RHMN|96891|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "09:00 AM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
       "price": "190.00",
       "status": "3"
     },
