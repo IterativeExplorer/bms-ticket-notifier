@@ -6,7 +6,7 @@
       "date": "20260815",
       "cat": "PRIME ROWS",
       "price": "380.00",
-      "status": "3"
+      "status": "2"
     },
     "PMPW|69634|20260815|CLASSIC PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
@@ -128,30 +128,6 @@
       "price": "280.00",
       "status": "3"
     },
-    "CPRP|2115|20260815|ROYAL SOFA": {
-      "venue": "City Pride Royal Cinemas: Rahatani",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL SOFA",
-      "price": "280.00",
-      "status": "0"
-    },
-    "CPRP|2115|20260815|ROYAL GOLD": {
-      "venue": "City Pride Royal Cinemas: Rahatani",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "CPRP|2115|20260815|ROYAL SILVER": {
-      "venue": "City Pride Royal Cinemas: Rahatani",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL SILVER",
-      "price": "230.00",
-      "status": "3"
-    },
     "VJHS|5867|20260815|RECLINER": {
       "venue": "E-SQUARE: VJ Happiness Street, Hinjawadi",
       "time": "11:30 PM",
@@ -247,22 +223,6 @@
       "cat": "CLASSIC ROWS",
       "price": "250.00",
       "status": "3"
-    },
-    "PDCP|33928|20260815|RECLINERS PRIME": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "08:30 PM",
-      "date": "20260815",
-      "cat": "RECLINERS PRIME",
-      "price": "950.00",
-      "status": "1"
-    },
-    "PDCP|33928|20260815|RECLINERS": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "08:30 PM",
-      "date": "20260815",
-      "cat": "RECLINERS",
-      "price": "900.00",
-      "status": "2"
     },
     "INPN|140074|20260815|ROYAL RECLINER ROWS": {
       "venue": "INOX: Bund Garden Road",
