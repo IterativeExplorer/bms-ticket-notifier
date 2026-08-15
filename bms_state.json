@@ -5,7 +5,7 @@
       "time": "11:15 PM",
       "date": "20260815",
       "cat": "PRIME ROWS",
-      "price": "360.00",
+      "price": "380.00",
       "status": "3"
     },
     "PMPW|69634|20260815|CLASSIC PLUS ROWS": {
@@ -29,7 +29,7 @@
       "time": "10:05 PM",
       "date": "20260815",
       "cat": "NORMAL",
-      "price": "270.00",
+      "price": "310.00",
       "status": "3"
     },
     "PUNB|22243|20260815|EXECUTIVE": {
@@ -37,7 +37,7 @@
       "time": "10:05 PM",
       "date": "20260815",
       "cat": "EXECUTIVE",
-      "price": "270.00",
+      "price": "330.00",
       "status": "3"
     },
     "PUNB|22243|20260815|PREMIUM": {
@@ -45,7 +45,7 @@
       "time": "10:05 PM",
       "date": "20260815",
       "cat": "PREMIUM",
-      "price": "290.00",
+      "price": "350.00",
       "status": "3"
     },
     "CPKT|7051|20260815|ROYAL SOFA": {
@@ -101,7 +101,7 @@
       "time": "09:25 PM",
       "date": "20260815",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "380.00",
+      "price": "400.00",
       "status": "3"
     },
     "ECPP|57997|20260815|PRIME PLUS ROWS": {
@@ -229,8 +229,8 @@
       "time": "08:40 PM",
       "date": "20260815",
       "cat": "PRIME PLUS ROWS",
-      "price": "290.00",
-      "status": "3"
+      "price": "310.00",
+      "status": "2"
     },
     "RHMN|96889|20260815|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
@@ -254,7 +254,7 @@
       "date": "20260815",
       "cat": "RECLINERS PRIME",
       "price": "950.00",
-      "status": "1"
+      "status": "0"
     },
     "PDCP|33928|20260815|RECLINERS": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
