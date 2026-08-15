@@ -13,7 +13,7 @@
       "time": "11:15 PM",
       "date": "20260815",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
+      "price": "360.00",
       "status": "3"
     },
     "PMPW|69634|20260815|CLASSIC ROWS": {
@@ -46,31 +46,7 @@
       "date": "20260815",
       "cat": "PREMIUM",
       "price": "350.00",
-      "status": "3"
-    },
-    "CPKT|7051|20260815|ROYAL SOFA": {
-      "venue": "City Pride: Kothrud",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL SOFA",
-      "price": "380.00",
       "status": "2"
-    },
-    "CPKT|7051|20260815|ROYAL GOLD": {
-      "venue": "City Pride: Kothrud",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL GOLD",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CPKT|7051|20260815|ROYAL SILVER": {
-      "venue": "City Pride: Kothrud",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL SILVER",
-      "price": "300.00",
-      "status": "3"
     },
     "ESEM|64227|20260815|RECLINER": {
       "venue": "E-SQUARE: Xion Mall, Hinjawadi",
@@ -190,46 +166,6 @@
       "date": "20260815",
       "cat": "SOFA SILVER",
       "price": "200.00",
-      "status": "3"
-    },
-    "RHMN|96889|20260815|RECLINER ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:40 PM",
-      "date": "20260815",
-      "cat": "RECLINER ROWS",
-      "price": "540.00",
-      "status": "3"
-    },
-    "RHMN|96889|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:40 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "310.00",
-      "status": "3"
-    },
-    "RHMN|96889|20260815|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:40 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "270.00",
-      "status": "3"
-    },
-    "RHMN|96889|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:40 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
-    "INPN|140074|20260815|ROYAL RECLINER ROWS": {
-      "venue": "INOX: Bund Garden Road",
-      "time": "09:00 PM",
-      "date": "20260815",
-      "cat": "ROYAL RECLINER ROWS",
-      "price": "580.00",
       "status": "3"
     }
   },
