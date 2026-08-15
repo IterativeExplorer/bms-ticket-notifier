@@ -24,30 +24,6 @@
       "price": "310.00",
       "status": "3"
     },
-    "PUNB|22243|20260815|NORMAL": {
-      "venue": "Cinepolis: Seasons Mall, Pune",
-      "time": "10:05 PM",
-      "date": "20260815",
-      "cat": "NORMAL",
-      "price": "270.00",
-      "status": "3"
-    },
-    "PUNB|22243|20260815|EXECUTIVE": {
-      "venue": "Cinepolis: Seasons Mall, Pune",
-      "time": "10:05 PM",
-      "date": "20260815",
-      "cat": "EXECUTIVE",
-      "price": "270.00",
-      "status": "3"
-    },
-    "PUNB|22243|20260815|PREMIUM": {
-      "venue": "Cinepolis: Seasons Mall, Pune",
-      "time": "10:05 PM",
-      "date": "20260815",
-      "cat": "PREMIUM",
-      "price": "290.00",
-      "status": "3"
-    },
     "CPKT|7047|20260815|ROYAL SOFA": {
       "venue": "City Pride: Kothrud",
       "time": "11:00 AM",
@@ -502,38 +478,6 @@
       "date": "20260815",
       "cat": "RECLINER",
       "price": "470.00",
-      "status": "3"
-    },
-    "PUVB|5672|20260815|VIP EXECUTIVE": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "03:20 PM",
-      "date": "20260815",
-      "cat": "VIP EXECUTIVE",
-      "price": "500.00",
-      "status": "3"
-    },
-    "PUVB|5672|20260815|VIP PREMIUM": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "03:20 PM",
-      "date": "20260815",
-      "cat": "VIP PREMIUM",
-      "price": "550.00",
-      "status": "3"
-    },
-    "PUVB|5674|20260815|VIP EXECUTIVE": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "11:55 PM",
-      "date": "20260815",
-      "cat": "VIP EXECUTIVE",
-      "price": "600.00",
-      "status": "3"
-    },
-    "PUVB|5674|20260815|VIP PREMIUM": {
-      "venue": "Cinepolis: VIP Seasons Mall, Pune",
-      "time": "11:55 PM",
-      "date": "20260815",
-      "cat": "VIP PREMIUM",
-      "price": "650.00",
       "status": "3"
     },
     "VJHS|5861|20260815|RECLINER": {
