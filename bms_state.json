@@ -5,7 +5,7 @@
       "time": "11:15 PM",
       "date": "20260815",
       "cat": "PRIME ROWS",
-      "price": "380.00",
+      "price": "400.00",
       "status": "2"
     },
     "PMPW|69634|20260815|CLASSIC PLUS ROWS": {
@@ -23,30 +23,6 @@
       "cat": "CLASSIC ROWS",
       "price": "310.00",
       "status": "3"
-    },
-    "PUNB|22243|20260815|NORMAL": {
-      "venue": "Cinepolis: Seasons Mall, Pune",
-      "time": "10:05 PM",
-      "date": "20260815",
-      "cat": "NORMAL",
-      "price": "310.00",
-      "status": "3"
-    },
-    "PUNB|22243|20260815|EXECUTIVE": {
-      "venue": "Cinepolis: Seasons Mall, Pune",
-      "time": "10:05 PM",
-      "date": "20260815",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
-      "status": "3"
-    },
-    "PUNB|22243|20260815|PREMIUM": {
-      "venue": "Cinepolis: Seasons Mall, Pune",
-      "time": "10:05 PM",
-      "date": "20260815",
-      "cat": "PREMIUM",
-      "price": "350.00",
-      "status": "2"
     },
     "ESEM|64227|20260815|RECLINER": {
       "venue": "E-SQUARE: Xion Mall, Hinjawadi",
@@ -70,38 +46,6 @@
       "date": "20260815",
       "cat": "SOFA GOLD",
       "price": "250.00",
-      "status": "3"
-    },
-    "ECPP|57997|20260815|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:25 PM",
-      "date": "20260815",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "ECPP|57997|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:25 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "360.00",
-      "status": "3"
-    },
-    "ECPP|57997|20260815|PRIME ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:25 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "320.00",
-      "status": "3"
-    },
-    "ECPP|57997|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:25 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "280.00",
       "status": "3"
     },
     "VJHS|5867|20260815|RECLINER": {
