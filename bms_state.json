@@ -8,14 +8,6 @@
       "price": "299.00",
       "status": "3"
     },
-    "PMPW|71517|20260908|CLASSIC PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "08:50 AM",
-      "date": "20260908",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PMPW|71517|20260908|PRIME ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "08:50 AM",
@@ -40,28 +32,20 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71517|20260908|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:50 AM",
+      "date": "20260908",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71521|20260908|RECLINER ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "09:25 AM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PMPW|71521|20260908|PRIME ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "09:25 AM",
-      "date": "20260908",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PMPW|71521|20260908|CLASSIC ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "09:25 AM",
-      "date": "20260908",
-      "cat": "CLASSIC ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PMPW|71521|20260908|PRIME PLUS ROWS": {
@@ -80,20 +64,28 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71521|20260908|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:25 AM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|71521|20260908|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:25 AM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71525|20260908|RECLINER ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "10:00 AM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PMPW|71525|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "10:00 AM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PMPW|71525|20260908|CLASSIC PLUS ROWS": {
@@ -120,6 +112,22 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71525|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "10:00 AM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|71559|20260908|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "10:45 AM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71559|20260908|CLASSIC PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "10:45 AM",
@@ -133,22 +141,6 @@
       "time": "10:45 AM",
       "date": "20260908",
       "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PMPW|71559|20260908|CLASSIC ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "10:45 AM",
-      "date": "20260908",
-      "cat": "CLASSIC ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PMPW|71550|20260908|CLASSIC ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "11:15 AM",
-      "date": "20260908",
-      "cat": "CLASSIC ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -168,11 +160,11 @@
       "price": "149.00",
       "status": "3"
     },
-    "PMPW|71541|20260908|PRIME ROWS": {
+    "PMPW|71550|20260908|CLASSIC ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "12:25 PM",
+      "time": "11:15 AM",
       "date": "20260908",
-      "cat": "PRIME ROWS",
+      "cat": "CLASSIC ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -192,28 +184,20 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71541|20260908|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "12:25 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71518|20260908|RECLINER ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "12:55 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PMPW|71518|20260908|CLASSIC ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "12:55 PM",
-      "date": "20260908",
-      "cat": "CLASSIC ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PMPW|71518|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "12:55 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PMPW|71518|20260908|CLASSIC PLUS ROWS": {
@@ -232,20 +216,28 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71518|20260908|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "12:55 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|71518|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "12:55 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71522|20260908|RECLINER ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "01:30 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PMPW|71522|20260908|CLASSIC PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "01:30 PM",
-      "date": "20260908",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PMPW|71522|20260908|PRIME ROWS": {
@@ -272,28 +264,20 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71522|20260908|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "01:30 PM",
+      "date": "20260908",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71526|20260908|RECLINER ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "02:05 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PMPW|71526|20260908|PRIME ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "02:05 PM",
-      "date": "20260908",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PMPW|71526|20260908|CLASSIC ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "02:05 PM",
-      "date": "20260908",
-      "cat": "CLASSIC ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PMPW|71526|20260908|PRIME PLUS ROWS": {
@@ -312,19 +296,19 @@
       "price": "149.00",
       "status": "3"
     },
-    "PMPW|71551|20260908|CLASSIC ROWS": {
+    "PMPW|71526|20260908|PRIME ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "03:20 PM",
+      "time": "02:05 PM",
       "date": "20260908",
-      "cat": "CLASSIC ROWS",
+      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
-    "PMPW|71551|20260908|CLASSIC PLUS ROWS": {
+    "PMPW|71526|20260908|CLASSIC ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "03:20 PM",
+      "time": "02:05 PM",
       "date": "20260908",
-      "cat": "CLASSIC PLUS ROWS",
+      "cat": "CLASSIC ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -336,9 +320,17 @@
       "price": "149.00",
       "status": "3"
     },
-    "PMPW|71552|20260908|CLASSIC PLUS ROWS": {
+    "PMPW|71551|20260908|CLASSIC ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "07:25 PM",
+      "time": "03:20 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|71551|20260908|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "03:20 PM",
       "date": "20260908",
       "cat": "CLASSIC PLUS ROWS",
       "price": "149.00",
@@ -360,11 +352,11 @@
       "price": "149.00",
       "status": "3"
     },
-    "PMPW|71543|20260908|CLASSIC ROWS": {
+    "PMPW|71552|20260908|CLASSIC PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "08:35 PM",
+      "time": "07:25 PM",
       "date": "20260908",
-      "cat": "CLASSIC ROWS",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -384,28 +376,20 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71543|20260908|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:35 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71520|20260908|RECLINER ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "09:05 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PMPW|71520|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "09:05 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PMPW|71520|20260908|CLASSIC PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "09:05 PM",
-      "date": "20260908",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PMPW|71520|20260908|PRIME ROWS": {
@@ -424,28 +408,28 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71520|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "2"
+    },
+    "PMPW|71520|20260908|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 PM",
+      "date": "20260908",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71524|20260908|RECLINER ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "09:40 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PMPW|71524|20260908|CLASSIC PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "09:40 PM",
-      "date": "20260908",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PMPW|71524|20260908|PRIME ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "09:40 PM",
-      "date": "20260908",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PMPW|71524|20260908|CLASSIC ROWS": {
@@ -464,28 +448,28 @@
       "price": "149.00",
       "status": "3"
     },
+    "PMPW|71524|20260908|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:40 PM",
+      "date": "20260908",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|71524|20260908|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:40 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PMPW|71528|20260908|RECLINER ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "10:15 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PMPW|71528|20260908|CLASSIC ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "10:15 PM",
-      "date": "20260908",
-      "cat": "CLASSIC ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PMPW|71528|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "10:15 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PMPW|71528|20260908|CLASSIC PLUS ROWS": {
@@ -501,6 +485,22 @@
       "time": "10:15 PM",
       "date": "20260908",
       "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|71528|20260908|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "10:15 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|71528|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "10:15 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -1326,7 +1326,7 @@
       "date": "20260908",
       "cat": "RECLINER",
       "price": "199.00",
-      "status": "2"
+      "status": "1"
     },
     "ESEM|65583|20260908|SILVER": {
       "venue": "E-SQUARE: Xion Mall, Hinjawadi",
@@ -1736,6 +1736,14 @@
       "price": "299.00",
       "status": "3"
     },
+    "ECPP|58728|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "10:10 AM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "ECPP|58728|20260908|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Elpro City Square, Chinchwad",
       "time": "10:10 AM",
@@ -1760,36 +1768,12 @@
       "price": "149.00",
       "status": "3"
     },
-    "ECPP|58728|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "10:10 AM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "ECPP|58734|20260908|RECLINER ROWS": {
       "venue": "INOX: Elpro City Square, Chinchwad",
       "time": "11:40 AM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "ECPP|58734|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "11:40 AM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "ECPP|58734|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "11:40 AM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "ECPP|58734|20260908|PRIME ROWS": {
@@ -1808,20 +1792,28 @@
       "price": "149.00",
       "status": "3"
     },
+    "ECPP|58734|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "11:40 AM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "ECPP|58734|20260908|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "11:40 AM",
+      "date": "20260908",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "ECPP|58739|20260908|RECLINER ROWS": {
       "venue": "INOX: Elpro City Square, Chinchwad",
       "time": "01:45 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "ECPP|58739|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "01:45 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "ECPP|58739|20260908|EXTRA LEGROOM ROWS": {
@@ -1848,12 +1840,28 @@
       "price": "149.00",
       "status": "3"
     },
+    "ECPP|58739|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "01:45 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "ECPP|58735|20260908|RECLINER ROWS": {
       "venue": "INOX: Elpro City Square, Chinchwad",
       "time": "03:45 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
+      "status": "3"
+    },
+    "ECPP|58735|20260908|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "03:45 PM",
+      "date": "20260908",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
       "status": "3"
     },
     "ECPP|58735|20260908|PRIME ROWS": {
@@ -1880,28 +1888,12 @@
       "price": "149.00",
       "status": "3"
     },
-    "ECPP|58735|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "03:45 PM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "ECPP|58736|20260908|RECLINER ROWS": {
       "venue": "INOX: Elpro City Square, Chinchwad",
       "time": "07:50 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "ECPP|58736|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "07:50 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "ECPP|58736|20260908|EXTRA LEGROOM ROWS": {
@@ -1928,28 +1920,20 @@
       "price": "149.00",
       "status": "3"
     },
+    "ECPP|58736|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "07:50 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "ECPP|58741|20260908|RECLINER ROWS": {
       "venue": "INOX: Elpro City Square, Chinchwad",
       "time": "09:55 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "ECPP|58741|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:55 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "ECPP|58741|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "09:55 PM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "ECPP|58741|20260908|PRIME ROWS": {
@@ -1968,11 +1952,19 @@
       "price": "149.00",
       "status": "3"
     },
-    "ECPP|58751|20260908|PRIME PLUS ROWS": {
+    "ECPP|58741|20260908|PRIME PLUS ROWS": {
       "venue": "INOX: Elpro City Square, Chinchwad",
-      "time": "10:55 PM",
+      "time": "09:55 PM",
       "date": "20260908",
       "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "ECPP|58741|20260908|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "09:55 PM",
+      "date": "20260908",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -1989,6 +1981,14 @@
       "time": "10:55 PM",
       "date": "20260908",
       "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "ECPP|58751|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX: Elpro City Square, Chinchwad",
+      "time": "10:55 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -2029,6 +2029,166 @@
       "time": "11:55 PM",
       "date": "20260908",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35532|20260908|RECLINER ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "09:45 AM",
+      "date": "20260908",
+      "cat": "RECLINER ROWS",
+      "price": "299.00",
+      "status": "3"
+    },
+    "PIPO|35532|20260908|PRIME ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "09:45 AM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35532|20260908|CLASSIC ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "09:45 AM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35532|20260908|PRIME PLUS ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "09:45 AM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35524|20260908|RECLINER ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "12:50 PM",
+      "date": "20260908",
+      "cat": "RECLINER ROWS",
+      "price": "299.00",
+      "status": "3"
+    },
+    "PIPO|35524|20260908|PRIME PLUS ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "12:50 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35524|20260908|PRIME ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "12:50 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35524|20260908|CLASSIC ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "12:50 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35533|20260908|RECLINER ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "01:50 PM",
+      "date": "20260908",
+      "cat": "RECLINER ROWS",
+      "price": "299.00",
+      "status": "3"
+    },
+    "PIPO|35533|20260908|CLASSIC ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "01:50 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35533|20260908|PRIME PLUS ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "01:50 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35533|20260908|PRIME ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "01:50 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35526|20260908|RECLINER ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "09:00 PM",
+      "date": "20260908",
+      "cat": "RECLINER ROWS",
+      "price": "299.00",
+      "status": "3"
+    },
+    "PIPO|35526|20260908|PRIME PLUS ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "09:00 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35526|20260908|PRIME ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "09:00 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35526|20260908|CLASSIC ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "09:00 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35535|20260908|RECLINER ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "10:00 PM",
+      "date": "20260908",
+      "cat": "RECLINER ROWS",
+      "price": "299.00",
+      "status": "3"
+    },
+    "PIPO|35535|20260908|CLASSIC ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "10:00 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35535|20260908|PRIME PLUS ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "10:00 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|35535|20260908|PRIME ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "10:00 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3110,7 +3270,15 @@
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "2"
+      "status": "3"
+    },
+    "PKPU|21614|20260908|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Kumar Pacific, Pune",
+      "time": "09:30 AM",
+      "date": "20260908",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
+      "status": "3"
     },
     "PKPU|21614|20260908|PRIME ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
@@ -3136,20 +3304,20 @@
       "price": "149.00",
       "status": "3"
     },
-    "PKPU|21614|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "09:30 AM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PKPU|21605|20260908|RECLINER ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
       "time": "11:15 AM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
+      "status": "3"
+    },
+    "PKPU|21605|20260908|PRIME PLUS ROWS": {
+      "venue": "PVR: Kumar Pacific, Pune",
+      "time": "11:15 AM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
       "status": "3"
     },
     "PKPU|21605|20260908|EXTRA LEGROOM ROWS": {
@@ -3176,21 +3344,21 @@
       "price": "149.00",
       "status": "3"
     },
-    "PKPU|21605|20260908|PRIME PLUS ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "11:15 AM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PKPU|21615|20260908|RECLINER ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
       "time": "01:35 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "2"
+      "status": "3"
+    },
+    "PKPU|21615|20260908|PRIME PLUS ROWS": {
+      "venue": "PVR: Kumar Pacific, Pune",
+      "time": "01:35 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
     },
     "PKPU|21615|20260908|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
@@ -3216,36 +3384,12 @@
       "price": "149.00",
       "status": "3"
     },
-    "PKPU|21615|20260908|PRIME PLUS ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "01:35 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PKPU|21606|20260908|RECLINER ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
       "time": "03:20 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
-    },
-    "PKPU|21606|20260908|PRIME PLUS ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "03:20 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PKPU|21606|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "03:20 PM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "149.00",
       "status": "3"
     },
     "PKPU|21606|20260908|PRIME ROWS": {
@@ -3264,12 +3408,36 @@
       "price": "149.00",
       "status": "3"
     },
+    "PKPU|21606|20260908|PRIME PLUS ROWS": {
+      "venue": "PVR: Kumar Pacific, Pune",
+      "time": "03:20 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PKPU|21606|20260908|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Kumar Pacific, Pune",
+      "time": "03:20 PM",
+      "date": "20260908",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PKPU|21607|20260908|RECLINER ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
       "time": "07:25 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
+      "status": "3"
+    },
+    "PKPU|21607|20260908|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Kumar Pacific, Pune",
+      "time": "07:25 PM",
+      "date": "20260908",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
       "status": "3"
     },
     "PKPU|21607|20260908|PRIME ROWS": {
@@ -3293,14 +3461,6 @@
       "time": "07:25 PM",
       "date": "20260908",
       "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PKPU|21607|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "07:25 PM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3344,6 +3504,14 @@
       "price": "149.00",
       "status": "3"
     },
+    "PKPU|21588|20260908|PRIME ROWS": {
+      "venue": "PVR: Kumar Pacific, Pune",
+      "time": "10:30 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "PKPU|21588|20260908|CLASSIC ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
       "time": "10:30 PM",
@@ -3368,20 +3536,20 @@
       "price": "149.00",
       "status": "3"
     },
-    "PKPU|21588|20260908|PRIME ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "10:30 PM",
-      "date": "20260908",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PKPU|21608|20260908|RECLINER ROWS": {
       "venue": "PVR: Kumar Pacific, Pune",
       "time": "11:30 PM",
       "date": "20260908",
       "cat": "RECLINER ROWS",
       "price": "299.00",
+      "status": "3"
+    },
+    "PKPU|21608|20260908|CLASSIC ROWS": {
+      "venue": "PVR: Kumar Pacific, Pune",
+      "time": "11:30 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
       "status": "3"
     },
     "PKPU|21608|20260908|PRIME PLUS ROWS": {
@@ -3405,22 +3573,6 @@
       "time": "11:30 PM",
       "date": "20260908",
       "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PKPU|21608|20260908|CLASSIC ROWS": {
-      "venue": "PVR: Kumar Pacific, Pune",
-      "time": "11:30 PM",
-      "date": "20260908",
-      "cat": "CLASSIC ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "FMJP|78148|20260908|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "09:45 AM",
-      "date": "20260908",
-      "cat": "CLASSIC PLUS ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3448,19 +3600,11 @@
       "price": "149.00",
       "status": "3"
     },
-    "FMJP|78139|20260908|CLASSIC ROWS": {
+    "FMJP|78148|20260908|CLASSIC PLUS ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "11:45 AM",
+      "time": "09:45 AM",
       "date": "20260908",
-      "cat": "CLASSIC ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "FMJP|78139|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "11:45 AM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3477,6 +3621,30 @@
       "time": "11:45 AM",
       "date": "20260908",
       "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "FMJP|78139|20260908|CLASSIC ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "11:45 AM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "FMJP|78139|20260908|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "11:45 AM",
+      "date": "20260908",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "FMJP|78149|20260908|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "01:50 PM",
+      "date": "20260908",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3504,22 +3672,6 @@
       "price": "149.00",
       "status": "3"
     },
-    "FMJP|78149|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "01:50 PM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "FMJP|78151|20260908|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "10:00 PM",
-      "date": "20260908",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "FMJP|78151|20260908|CLASSIC PLUS ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
       "time": "10:00 PM",
@@ -3544,19 +3696,11 @@
       "price": "149.00",
       "status": "3"
     },
-    "FMJP|78142|20260908|PRIME ROWS": {
+    "FMJP|78151|20260908|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "11:00 PM",
+      "time": "10:00 PM",
       "date": "20260908",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "FMJP|78142|20260908|CLASSIC ROWS": {
-      "venue": "INOX: Jai Ganesh, Akurdi",
-      "time": "11:00 PM",
-      "date": "20260908",
-      "cat": "CLASSIC ROWS",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3573,6 +3717,22 @@
       "time": "11:00 PM",
       "date": "20260908",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "FMJP|78142|20260908|PRIME ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "11:00 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "FMJP|78142|20260908|CLASSIC ROWS": {
+      "venue": "INOX: Jai Ganesh, Akurdi",
+      "time": "11:00 PM",
+      "date": "20260908",
+      "cat": "CLASSIC ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3680,6 +3840,14 @@
       "price": "299.00",
       "status": "3"
     },
+    "RHMN|97718|20260908|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "01:50 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "RHMN|97718|20260908|CLASSIC ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "01:50 PM",
@@ -3693,14 +3861,6 @@
       "time": "01:50 PM",
       "date": "20260908",
       "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "RHMN|97718|20260908|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "01:50 PM",
-      "date": "20260908",
-      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3744,6 +3904,14 @@
       "price": "299.00",
       "status": "3"
     },
+    "RHMN|97710|20260908|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "07:25 PM",
+      "date": "20260908",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "RHMN|97710|20260908|CLASSIC ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "07:25 PM",
@@ -3757,14 +3925,6 @@
       "time": "07:25 PM",
       "date": "20260908",
       "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "RHMN|97710|20260908|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "07:25 PM",
-      "date": "20260908",
-      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3808,6 +3968,14 @@
       "price": "299.00",
       "status": "3"
     },
+    "RHMN|97720|20260908|PRIME PLUS ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "10:00 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
     "RHMN|97720|20260908|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "10:00 PM",
@@ -3821,14 +3989,6 @@
       "time": "10:00 PM",
       "date": "20260908",
       "cat": "CLASSIC ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "RHMN|97720|20260908|PRIME PLUS ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "10:00 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -3928,14 +4088,6 @@
       "price": "399.00",
       "status": "3"
     },
-    "PDCP|34957|20260908|PICTURE PERFECT": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "12:00 PM",
-      "date": "20260908",
-      "cat": "PICTURE PERFECT",
-      "price": "199.00",
-      "status": "3"
-    },
     "PDCP|34957|20260908|PRIME PLUS": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "12:00 PM",
@@ -3952,12 +4104,12 @@
       "price": "199.00",
       "status": "3"
     },
-    "PDCP|34967|20260908|RECLINERS PRIME": {
+    "PDCP|34957|20260908|PICTURE PERFECT": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "01:05 PM",
+      "time": "12:00 PM",
       "date": "20260908",
-      "cat": "RECLINERS PRIME",
-      "price": "399.00",
+      "cat": "PICTURE PERFECT",
+      "price": "199.00",
       "status": "3"
     },
     "PDCP|34967|20260908|RECLINERS": {
@@ -3965,6 +4117,14 @@
       "time": "01:05 PM",
       "date": "20260908",
       "cat": "RECLINERS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "PDCP|34967|20260908|RECLINERS PRIME": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "01:05 PM",
+      "date": "20260908",
+      "cat": "RECLINERS PRIME",
       "price": "399.00",
       "status": "3"
     },
@@ -3984,19 +4144,19 @@
       "price": "399.00",
       "status": "3"
     },
-    "PDCP|34975|20260908|RECLINERS": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "02:05 PM",
-      "date": "20260908",
-      "cat": "RECLINERS",
-      "price": "399.00",
-      "status": "3"
-    },
     "PDCP|34975|20260908|RECLINERS PRIME": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "02:05 PM",
       "date": "20260908",
       "cat": "RECLINERS PRIME",
+      "price": "399.00",
+      "status": "3"
+    },
+    "PDCP|34975|20260908|RECLINERS": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "02:05 PM",
+      "date": "20260908",
+      "cat": "RECLINERS",
       "price": "399.00",
       "status": "3"
     },
@@ -4024,6 +4184,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "PDCP|35019|20260908|PRIME PLUS": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "07:10 PM",
+      "date": "20260908",
+      "cat": "PRIME PLUS",
+      "price": "199.00",
+      "status": "3"
+    },
     "PDCP|35019|20260908|PRIME": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "07:10 PM",
@@ -4037,14 +4205,6 @@
       "time": "07:10 PM",
       "date": "20260908",
       "cat": "PICTURE PERFECT",
-      "price": "199.00",
-      "status": "3"
-    },
-    "PDCP|35019|20260908|PRIME PLUS": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "07:10 PM",
-      "date": "20260908",
-      "cat": "PRIME PLUS",
       "price": "199.00",
       "status": "3"
     },
@@ -4064,14 +4224,6 @@
       "price": "399.00",
       "status": "3"
     },
-    "PDCP|34977|20260908|RECLINERS": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "10:15 PM",
-      "date": "20260908",
-      "cat": "RECLINERS",
-      "price": "399.00",
-      "status": "3"
-    },
     "PDCP|34977|20260908|RECLINERS PRIME": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "10:15 PM",
@@ -4080,12 +4232,12 @@
       "price": "399.00",
       "status": "3"
     },
-    "PDCP|35020|20260908|PICTURE PERFECT": {
+    "PDCP|34977|20260908|RECLINERS": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "11:15 PM",
+      "time": "10:15 PM",
       "date": "20260908",
-      "cat": "PICTURE PERFECT",
-      "price": "199.00",
+      "cat": "RECLINERS",
+      "price": "399.00",
       "status": "3"
     },
     "PDCP|35020|20260908|PRIME PLUS": {
@@ -4101,6 +4253,14 @@
       "time": "11:15 PM",
       "date": "20260908",
       "cat": "PRIME",
+      "price": "199.00",
+      "status": "3"
+    },
+    "PDCP|35020|20260908|PICTURE PERFECT": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "11:15 PM",
+      "date": "20260908",
+      "cat": "PICTURE PERFECT",
       "price": "199.00",
       "status": "3"
     },
