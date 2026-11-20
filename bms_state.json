@@ -1,1 +1,133 @@
-{}
+{
+  "shows": {
+    "POVI|36913|20261216|RECLINER ROWS": {
+      "venue": "HDFC Millennia PVR ICON: Oberoi Mall, Goregaon (E)",
+      "time": "08:15 PM",
+      "date": "20261216",
+      "cat": "RECLINER ROWS",
+      "price": "1300.00",
+      "status": "3"
+    },
+    "POVI|36913|20261216|PICTURE PERFECT": {
+      "venue": "HDFC Millennia PVR ICON: Oberoi Mall, Goregaon (E)",
+      "time": "08:15 PM",
+      "date": "20261216",
+      "cat": "PICTURE PERFECT",
+      "price": "580.00",
+      "status": "3"
+    },
+    "POVI|36913|20261216|PRIME PLUS ROWS": {
+      "venue": "HDFC Millennia PVR ICON: Oberoi Mall, Goregaon (E)",
+      "time": "08:15 PM",
+      "date": "20261216",
+      "cat": "PRIME PLUS ROWS",
+      "price": "560.00",
+      "status": "3"
+    },
+    "POVI|36913|20261216|EXTRA LEGROOM ROWS": {
+      "venue": "HDFC Millennia PVR ICON: Oberoi Mall, Goregaon (E)",
+      "time": "08:15 PM",
+      "date": "20261216",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "540.00",
+      "status": "3"
+    },
+    "POVI|36913|20261216|PRIME ROWS": {
+      "venue": "HDFC Millennia PVR ICON: Oberoi Mall, Goregaon (E)",
+      "time": "08:15 PM",
+      "date": "20261216",
+      "cat": "PRIME ROWS",
+      "price": "520.00",
+      "status": "3"
+    },
+    "POVI|36913|20261216|CLASSIC ROWS": {
+      "venue": "HDFC Millennia PVR ICON: Oberoi Mall, Goregaon (E)",
+      "time": "08:15 PM",
+      "date": "20261216",
+      "cat": "CLASSIC ROWS",
+      "price": "510.00",
+      "status": "3"
+    },
+    "POVI|36913|20261216|LOUNGER ROWS": {
+      "venue": "HDFC Millennia PVR ICON: Oberoi Mall, Goregaon (E)",
+      "time": "08:15 PM",
+      "date": "20261216",
+      "cat": "LOUNGER ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PMKM|45840|20261216|RECLINER ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "07:10 PM",
+      "date": "20261216",
+      "cat": "RECLINER ROWS",
+      "price": "970.00",
+      "status": "2"
+    },
+    "PMKM|45840|20261216|LOUNGER ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "07:10 PM",
+      "date": "20261216",
+      "cat": "LOUNGER ROWS",
+      "price": "590.00",
+      "status": "3"
+    },
+    "PMKM|45840|20261216|PRIME PLUS ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "07:10 PM",
+      "date": "20261216",
+      "cat": "PRIME PLUS ROWS",
+      "price": "590.00",
+      "status": "3"
+    },
+    "PMKM|45840|20261216|PRIME ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "07:10 PM",
+      "date": "20261216",
+      "cat": "PRIME ROWS",
+      "price": "560.00",
+      "status": "3"
+    },
+    "PMKM|45841|20261216|RECLINER ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "10:30 PM",
+      "date": "20261216",
+      "cat": "RECLINER ROWS",
+      "price": "970.00",
+      "status": "3"
+    },
+    "PMKM|45841|20261216|LOUNGER ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "10:30 PM",
+      "date": "20261216",
+      "cat": "LOUNGER ROWS",
+      "price": "590.00",
+      "status": "3"
+    },
+    "PMKM|45841|20261216|PRIME PLUS ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "10:30 PM",
+      "date": "20261216",
+      "cat": "PRIME PLUS ROWS",
+      "price": "590.00",
+      "status": "3"
+    },
+    "PMKM|45841|20261216|PRIME ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "10:30 PM",
+      "date": "20261216",
+      "cat": "PRIME ROWS",
+      "price": "560.00",
+      "status": "3"
+    }
+  },
+  "dates": {
+    "20261216": "BOOKABLE",
+    "20261217": "NOT_OPEN",
+    "20261218": "NOT_OPEN",
+    "20261219": "NOT_OPEN",
+    "20261220": "NOT_OPEN",
+    "20261221": "NOT_OPEN",
+    "20261222": "NOT_OPEN"
+  }
+}
